@@ -8,7 +8,9 @@ export function Navigation() {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex items-center justify-between h-16">
                     <div className="flex items-center">
-                        <span className="text-white text-xl font-bold">Le Bistro</span>
+                        <span className="text-white text-xl font-bold">
+                            <img src="https://i.imgur.com/cUtkHQF.png" width={100} style={{paddingTop : "50px"}} alt="verifie ta connexion malan" srcSet="" />
+                        </span>
                     </div>
                     <div className="hidden md:block">
                         <div className="ml-10 flex items-baseline space-x-4">

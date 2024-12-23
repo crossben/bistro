@@ -25,7 +25,7 @@ function App() {
             transition={{ duration: 1 }}
             className="text-center text-white"
           >
-            <h1 className="text-6xl font-bold mb-4">Le Bistro</h1>
+            <h1 className="text-6xl font-bold mb-4">Le Sam Sam</h1>
             <p className="text-xl">Découvrez la haute cuisine</p>
           </motion.div>
         </div>
